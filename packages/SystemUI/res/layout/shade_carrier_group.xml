@@ -33,6 +33,7 @@
         android:minHeight="48dp"
         android:gravity="center_vertical"
         android:textAppearance="@style/TextAppearance.QS.Status.Carriers.NoCarrierText"
+        android:textAlignment="viewEnd"
         android:textDirection="locale"
         android:marqueeRepeatLimit="marquee_forever"
         android:singleLine="true"

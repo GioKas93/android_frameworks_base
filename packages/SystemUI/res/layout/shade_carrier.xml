@@ -34,6 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:textAppearance="@style/TextAppearance.QS.Status.Carriers"
+        android:textAlignment="viewEnd"
         android:textDirection="locale"
         android:marqueeRepeatLimit="marquee_forever"
         android:singleLine="true"
